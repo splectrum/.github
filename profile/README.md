@@ -1,15 +1,18 @@
 # SPLectrum
 
-A framework at the intersection of philosophy of language, systems theory,
-and software engineering. Three fabrics: Mycelium (data), SPLectrum
-(language), HAICC (cognition).
+SPLectrum began as a software engineering idea, a DSL engine for language and
+meaning, and has grown into a philosophy with language as the medium:
+[splectrum.world](https://splectrum.world). Its engineering is an effort to
+build a technological reality in the same image, on three pillars: **HAICC**,
+human-AI creative collaboration, and now the platform that runs;
+**Mycelium**, the data repository; and **SPLectrum** itself, the language
+fabric, a DSL engine still to be built. They run on peer-to-peer swarms, and
+are built with AI autonomy in mind: from a need to running software.
 
-Data repositories with embedded functionality: git repos that carry their
-own code, schemas, and references as colocated metadata. This organisation
-holds the language and the development environments the rest is built in;
-the code is in [pear-full-square](https://github.com/pear-full-square) and
-[bare-for-pear](https://github.com/bare-for-pear), Splectral's components in
-[splectral](https://github.com/splectral), and what you can run in
-**[haiccing](https://github.com/haiccing)**: start there.
-
-**[splectrum.world](https://splectrum.world)**: philosophy, engineering, and the seed principles.
+This organisation is where the work is planned and done: the roadmap, the
+development environments, and the site. The language modules will live here
+once the language layer is built. The engines are in
+[pear-full-square](https://github.com/pear-full-square), SPLectral's
+components in [SPLectral](https://github.com/splectral), the outside code
+adapted for Bare in [bare-for-pear](https://github.com/bare-for-pear), and
+what you can run in **[HAICCing](https://github.com/haiccing)**: start there.
