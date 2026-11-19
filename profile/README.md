@@ -13,9 +13,9 @@ This organisation is where the work is planned and done: the roadmap, the
 development environments, and the site. The language modules will live here
 once the language layer is built.
 
-## The five organisations
+## The seven organisations
 
-SPLectrum's engineering is spread over five GitHub organisations:
+SPLectrum's engineering is spread over seven GitHub organisations:
 
 - **[splectrum](https://github.com/splectrum)** (this one): where SPLectrum, the
   philosophy project, lives, and where its engineering is planned.
@@ -25,5 +25,9 @@ SPLectrum's engineering is spread over five GitHub organisations:
   all of the platform's code, one module a repository.
 - **[HAICCing](https://github.com/haiccing)**: the packages made from those
   modules, and the `haicc` command: what you can run. Start here.
-- **[SPLectral](https://github.com/splectral)**: components for seeing and
-  working with running systems in the browser.
+- **[myctral](https://github.com/myctral)**: mycelium's data
+  repositories: state.
+- **[myctrans](https://github.com/myctrans)**: data transformation:
+  process.
+- **[SPLectral](https://github.com/splectral)**: interaction, first of
+  all the UI.
